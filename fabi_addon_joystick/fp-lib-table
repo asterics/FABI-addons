@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "assistronik")(type "KiCad")(uri "${KIPRJMOD}/assistronik.pretty")(options "")(descr ""))
+)

@@ -58,56 +58,7 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [
-        [
-          "silk_overlap|170559268|76500067|aed8639e-fa23-4971-9ab5-bfdab992842e|c51d7b3f-f587-4d52-b8aa-b49b81060c1f",
-          ""
-        ],
-        [
-          "silk_overlap|170569937|81360044|aed8639e-fa23-4971-9ab5-bfdab992842e|d8ea8591-7de9-416c-bedb-f5ee51fed227",
-          ""
-        ],
-        [
-          "silk_overlap|170590000|58640000|4e9a9b7d-cdb9-4893-9a42-046c7d662181|aed8639e-fa23-4971-9ab5-bfdab992842e",
-          ""
-        ],
-        [
-          "silk_overlap|170590000|61500000|6b1033d1-9e03-46b0-beba-d48e6dead2e2|aed8639e-fa23-4971-9ab5-bfdab992842e",
-          ""
-        ],
-        [
-          "silk_overlap|170590000|63500000|64b4a2a5-4a91-4158-9924-f79c5a9ade93|aed8639e-fa23-4971-9ab5-bfdab992842e",
-          ""
-        ],
-        [
-          "silk_overlap|170590000|63500000|9cf52341-6772-4e3f-99da-874d6f46ff18|aed8639e-fa23-4971-9ab5-bfdab992842e",
-          ""
-        ],
-        [
-          "silk_overlap|170590000|69000000|8a94a0e9-7542-480e-939f-d2b36d838df7|aed8639e-fa23-4971-9ab5-bfdab992842e",
-          ""
-        ],
-        [
-          "silk_overlap|170590000|71000000|35c017de-ab48-4a67-a7aa-a417f41215f1|aed8639e-fa23-4971-9ab5-bfdab992842e",
-          ""
-        ],
-        [
-          "silk_overlap|170590000|71000000|51739cb0-76c4-46ae-b3f0-b24f047cfe01|aed8639e-fa23-4971-9ab5-bfdab992842e",
-          ""
-        ],
-        [
-          "silk_overlap|170590000|78500000|84d181dd-d655-4c82-84b7-ba6587fc3409|aed8639e-fa23-4971-9ab5-bfdab992842e",
-          ""
-        ],
-        [
-          "silk_overlap|170590000|78500000|8d8c5e38-e182-4336-9dc7-3f879e4d9d8c|aed8639e-fa23-4971-9ab5-bfdab992842e",
-          ""
-        ],
-        [
-          "silk_overlap|170590000|81360000|3372de23-dc24-4138-a7db-3aa2f1060cea|aed8639e-fa23-4971-9ab5-bfdab992842e",
-          ""
-        ]
-      ],
+      "drc_exclusions": [],
       "meta": {
         "version": 2
       },

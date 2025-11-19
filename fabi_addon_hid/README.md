@@ -17,6 +17,7 @@ Furthermore, the standard USB HID devices can be used to control special feature
 ## Usage
 
 * connect the HID2Fabi adapter to a FABI device using the RJ25 extension port
+* connect a USB OTG (Host) adapter to the XIAO (e.g. [this model](https://www.amazon.de/UGREEN-Adapter-Stecker-Handy-OTG-Adapter-kompatibel-GRAU/dp/B0B9N3QSL3) which fits into the suggested enclosure)
 * connect a USB HID mouse or joystick 
 * configure the FABI functions as desired using the [FABI WebGUI](https://fabi.asterics-foundation.org)
   * mouse x/y movement or joystick axis 1 x/y movement are converted to x/y sensor values or the FABI
